@@ -1,6 +1,7 @@
 {
   "name": "@yzfe/qrcodejs",
   "version": "1.0.0",
+  "private": false,
   "description": "Cross-browser QRCode generator for javascript davidshimjs/qrcodejs",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
