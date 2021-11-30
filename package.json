@@ -1,0 +1,17 @@
+{
+  "name": "@yzfe/qrcodejs",
+  "version": "1.0.0",
+  "description": "Cross-browser QRCode generator for javascript davidshimjs/qrcodejs",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "repository": "git@github.com:MMF-FE/qrcodejs.git",
+  "license": "MIT",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "rollup": "^2.60.1",
+    "rollup-plugin-typescript2": "^0.31.1",
+    "typescript": "^4.5.2"
+  }
+}

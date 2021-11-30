@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "module": "ESNext",
+        "sourceMap": true,
+        "noImplicitThis": true,
+        "diagnostics": true,
+        "listFiles": true,
+        "pretty": true,
+        "moduleResolution": "node",
+        "noEmitOnError": false,
+        "strictNullChecks": true,
+        "forceConsistentCasingInFileNames": true,
+        "noImplicitReturns": true,
+        "strict": true,
+        "outDir": "./dist",
+        "allowSyntheticDefaultImports": true,
+        "declaration": true
+    },
+    "include": ["src/**/*.ts"],
+    "exclude": []
+}
